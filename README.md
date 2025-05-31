@@ -25,14 +25,3 @@ This project implements the A* pathfinding algorithm over a dynamically generate
 
 ---
 
-## 📂 Project 
-a_star_pathfinder/
-│
-├── grid_generator.py # Creates the grid with costs and obstacles
-├── a_star.py # A* algorithm implementation
-├── visualize.py # Path visualization using matplotlib
-├── main.py # Glue code to generate, solve, and visualize
-└── README.md # You're here
----
-
-
