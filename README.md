@@ -24,4 +24,6 @@ This project implements the A* pathfinding algorithm over a dynamically generate
 - **Visualization**: The final path is drawn in bright yellow. Obstacles appear darkest, and higher movement costs are brighter.
 
 ---
+**My Why**
+-- Getting more abreast with Python's capabilities and Libraries
 
